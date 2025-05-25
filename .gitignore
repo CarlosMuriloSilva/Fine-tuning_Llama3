@@ -1,0 +1,9 @@
+# Ignorar arquivo de dados específico
+dados/
+modelo_lora_final/
+
+# (Opcional) Ignorar pastas/arquivos Python padrão
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
